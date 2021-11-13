@@ -7,4 +7,5 @@ func main() {
 
 	name = "Aaron"
 	fmt.Println(name)
+	fmt.Println('Bla bla bla')
 }
